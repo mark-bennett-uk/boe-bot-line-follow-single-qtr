@@ -1,0 +1,7 @@
+Hardware
+
+    Parallax Boe-Bot
+    2 x Servo Motors [pins 12 and 13]
+    Line Sensors [pin 3]
+    Red LED [pin 10]
+    Piezo Speaker [pin 4]
